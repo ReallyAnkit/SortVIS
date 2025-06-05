@@ -6,5 +6,7 @@ add_executable(SortingVisualis3r main.cpp
     mergesort.hpp mergesort.cpp
     drawarray.hpp drawarray.cpp
     bubblesort.hpp bubblesort.cpp
-    quicksort.hpp quicksort.cpp)
+    quicksort.hpp quicksort.cpp
+    selectionsort.hpp selectionsort.cpp
+    insertionsort.hpp insertionsort.cpp)
 target_link_libraries(${PROJECT_NAME} sfml-graphics sfml-window sfml-system)
