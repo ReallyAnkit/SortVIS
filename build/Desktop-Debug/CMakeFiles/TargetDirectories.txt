@@ -1,3 +1,0 @@
-/home/reallyankit/Documents/SortingVis/SortingVisualis3r/build/Desktop-Debug/CMakeFiles/SortingVisualis3r.dir
-/home/reallyankit/Documents/SortingVis/SortingVisualis3r/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/reallyankit/Documents/SortingVis/SortingVisualis3r/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
